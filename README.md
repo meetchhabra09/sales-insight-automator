@@ -1,29 +1,29 @@
-Sales Insight Automator
+# Sales Insight Automator
 
-Tech Stack
+# Tech Stack
 - Frontend
 - React
 - Axios
 - CSS
 
-Backend
--Node.js
--Express.js
--Multer (file upload)
--Swagger UI (API docs)
+# Backend
+- Node.js
+- Express.js
+- Multer (file upload)
+- Swagger UI (API docs)
 AI Engine
 Google Gemini API (LLM based summarization)
--Email Service
--Brevo API
--DevOps
--Docker
--Docker Compose
--GitHub Actions CI/CD
+- Email Service
+- Brevo API
+- DevOps
+- Docker
+- Docker Compose
+- GitHub Actions CI/CD
 
-#Vercel (Frontend Hosting)
-#Render (Backend Hosting)
+# Vercel (Frontend Hosting)
+# Render (Backend Hosting)
 
-//Key Features//
+# Key Features
 Automated Sales Analysis
 Upload CSV or Excel sales data and receive an AI-generated summary.
 Email Delivery
